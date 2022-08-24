@@ -50,7 +50,7 @@ def get_inputs(available_visa_types):
     send_to = sys.argv[4]
     print ("Input Values:")
     print("\tNotify Wait time threshold in days =", notify_wait_time_threshold)
-    print("\tVisa Typw =", visa_type)
+    print("\tVisa Type =", visa_type)
     print("\tCity =", city)
     print("\tPhone number to text for notification = ", send_to)
     print("-"*80)
